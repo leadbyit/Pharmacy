@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Sun Jan 17 19:34:35 IST 2016
+org.eclipse.jst.jee.server\:pharmacy=C\:\\Users\\Zoy\\Downloads\\spring-tool-suite-3.4.0.RELEASE-e4.3.1-win32-x86_64\\springsource\\vfabric-tc-server-developer-2.9.3.RELEASE\\base-instance\\wtpwebapps\\pharmacy
